@@ -1,2 +1,2 @@
 # DataStructure
-This repository is for practicing Data Structures using Python
+This repository is for practicing Data Structures using Python Programming Language.
